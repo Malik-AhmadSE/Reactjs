@@ -1,0 +1,11 @@
+*{
+  padding:0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+
+.callback{
+  color:rgb(232, 173, 131);
+  background-color: rgb(203, 239, 227);
+  text-align: center;
+}
